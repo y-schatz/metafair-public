@@ -17,7 +17,7 @@
 #    Individuals
 #################################################################
 
-###  http://www.hesge.ch/metafair/ontologies/objects/construction#BIMModel
+###  http://www.hesge.ch/metafair/ontologies/artifacts/construction#BIMModel
 :BIMModel rdf:type owl:NamedIndividual ,
                    core:DataArtifact ;
           core:hasField <http://www.hesge.ch/metafair/ontologies/fields#AuthoringTool> ,
