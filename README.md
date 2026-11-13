@@ -244,11 +244,11 @@ Cette étape est facultative si le format n’est pas pertinent ou n’est pas e
 
 Renseigner les champs de métadonnées principales affichés dans le formulaire. Les champs obligatoires ou incorrectement renseignés sont signalés par un contour rouge et un symbole d’avertissement. Tant que tous les champs principaux ne sont pas correctement complétés, une croix apparaît dans l’en-tête de cette section.
 
+**💡Extraction automatique :** pour préremplir automatiquement les champs, faire glisser le fichier dans la zone contenant ceux-ci. Les informations extraites doivent être vérifiées par l’utilisateur.
+
 **💡Amélioration d’un texte :** pour les champs textuels qui proposent cette fonction, cliquer sur le bouton **Refine** situé à côté de la zone de saisie. L’assistance, fondée sur un modèle d’intelligence artificielle exécuté localement, peut corriger les erreurs et améliorer la ponctuation.
 
 > **Attention :** cette fonction peut produire des erreurs ou modifier le sens du texte. Il est donc nécessaire de relire et de vérifier systématiquement le résultat avant de le conserver.
-
-**💡Extraction automatique :** pour préremplir automatiquement les champs, faire glisser le fichier dans la zone contenant ceux-ci. Les informations extraites doivent être vérifiées par l’utilisateur.
 
 ### 5 - Saisie des métadonnées avancées
 
