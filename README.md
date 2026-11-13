@@ -248,9 +248,7 @@ Renseigner les champs de métadonnées principales affichés dans le formulaire.
 
 > **Attention :** cette fonction peut produire des erreurs ou modifier le sens du texte. Il est donc nécessaire de relire et de vérifier systématiquement le résultat avant de le conserver.
 
-**💡Extraction automatique :** pour préremplir automatiquement les champs pris en charge, faire glisser le fichier concerné dans la zone prévue à cet effet. Les informations extraites doivent être vérifiées par l’utilisateur.
-
-![Glisser-déposer](images/glisser-deposer.png)
+**💡Extraction automatique :** pour préremplir automatiquement les champs, faire glisser le fichier dans la zone contenant ceux-ci. Les informations extraites doivent être vérifiées par l’utilisateur.
 
 ### 5 - Saisie des métadonnées avancées
 
